@@ -1,0 +1,182 @@
+[
+  {
+    "item_id": "A1001",
+    "item_name": "Headphone XYZ",
+    "view_time_seconds": 320,
+    "in_cart": 1,
+    "cart_time_minutes": 40,
+    "last_action": "in_cart",
+    "location": "SP"
+  },
+  {
+    "item_id": "B2020",
+    "item_name": "Mouse Gamer ABC",
+    "view_time_seconds": 180,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "viewed",
+    "location": "RJ"
+  },
+  {
+    "item_id": "C3001",
+    "item_name": "Teclado Mecânico Pro",
+    "view_time_seconds": 410,
+    "in_cart": 1,
+    "cart_time_minutes": 55,
+    "last_action": "in_cart",
+    "location": "MG"
+  },
+  {
+    "item_id": "D4002",
+    "item_name": "Cadeira Gamer Ultimate",
+    "view_time_seconds": 120,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "skipped",
+    "location": "BA"
+  },
+  {
+    "item_id": "E5003",
+    "item_name": "Monitor 27'' 4K",
+    "view_time_seconds": 290,
+    "in_cart": 1,
+    "cart_time_minutes": 15,
+    "last_action": "in_cart",
+    "location": "SP"
+  },
+  {
+    "item_id": "F6004",
+    "item_name": "Notebook Gamer Titan",
+    "view_time_seconds": 600,
+    "in_cart": 1,
+    "cart_time_minutes": 80,
+    "last_action": "in_cart",
+    "location": "RS"
+  },
+  {
+    "item_id": "G7005",
+    "item_name": "Smartphone Galaxy Ultra",
+    "view_time_seconds": 150,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "viewed",
+    "location": "PR"
+  },
+  {
+    "item_id": "H8006",
+    "item_name": "Tablet 10.5'' Wi-Fi",
+    "view_time_seconds": 75,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "skipped",
+    "location": "RJ"
+  },
+  {
+    "item_id": "I9007",
+    "item_name": "Impressora Multifuncional",
+    "view_time_seconds": 210,
+    "in_cart": 1,
+    "cart_time_minutes": 22,
+    "last_action": "in_cart",
+    "location": "GO"
+  },
+  {
+    "item_id": "J10008",
+    "item_name": "Caixa de Som Bluetooth",
+    "view_time_seconds": 135,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "viewed",
+    "location": "PE"
+  },
+  {
+    "item_id": "K11009",
+    "item_name": "Roteador Wi-Fi 6",
+    "view_time_seconds": 195,
+    "in_cart": 1,
+    "cart_time_minutes": 35,
+    "last_action": "in_cart",
+    "location": "CE"
+  },
+  {
+    "item_id": "L12010",
+    "item_name": "Câmera de Segurança",
+    "view_time_seconds": 85,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "skipped",
+    "location": "SP"
+  },
+  {
+    "item_id": "M13011",
+    "item_name": "Console PlayBox 5",
+    "view_time_seconds": 470,
+    "in_cart": 1,
+    "cart_time_minutes": 70,
+    "last_action": "in_cart",
+    "location": "MG"
+  },
+  {
+    "item_id": "N14012",
+    "item_name": "HD Externo 2TB",
+    "view_time_seconds": 160,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "viewed",
+    "location": "AM"
+  },
+  {
+    "item_id": "O15013",
+    "item_name": "Smartwatch Fit",
+    "view_time_seconds": 210,
+    "in_cart": 1,
+    "cart_time_minutes": 28,
+    "last_action": "in_cart",
+    "location": "DF"
+  },
+  {
+    "item_id": "P16014",
+    "item_name": "Ar Condicionado 12000 BTUs",
+    "view_time_seconds": 110,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "skipped",
+    "location": "SP"
+  },
+  {
+    "item_id": "Q17015",
+    "item_name": "Fogão Inox 5 bocas",
+    "view_time_seconds": 250,
+    "in_cart": 1,
+    "cart_time_minutes": 30,
+    "last_action": "in_cart",
+    "location": "BA"
+  },
+  {
+    "item_id": "R18016",
+    "item_name": "Geladeira Duplex",
+    "view_time_seconds": 360,
+    "in_cart": 1,
+    "cart_time_minutes": 48,
+    "last_action": "in_cart",
+    "location": "RJ"
+  },
+  {
+    "item_id": "S19017",
+    "item_name": "Micro-ondas 20L",
+    "view_time_seconds": 90,
+    "in_cart": 0,
+    "cart_time_minutes": 0,
+    "last_action": "viewed",
+    "location": "SC"
+  },
+  {
+    "item_id": "T20018",
+    "item_name": "Aspirador de Pó Vertical",
+    "view_time_seconds": 200,
+    "in_cart": 1,
+    "cart_time_minutes": 18,
+    "last_action": "in_cart",
+    "location": "MT"
+  }
+]

@@ -1,0 +1,21 @@
+﻿prediction_id;item_id;item_name;decisao;probabilidade (%);acao_logistica;prioridade_envio;hub_destino;view_time_seconds;in_cart;cart_time_minutes;last_action;location
+d446dc04-b494-4790-be85-82eaee104a85;A1001;Headphone XYZ;Compraria;99.00%;Enviar imediatamente;Alta;;320;1;40;0;12
+87e37f90-951f-4077-958a-ed08bb223396;B2020;Mouse Gamer ABC;Não compraria;0.00%;Aguardar;Baixa;;180;0;0;2;9
+79a9bc1c-5529-499c-9e3a-d4f26e1fed1a;C3001;Teclado Mecânico Pro;Compraria;99.00%;Enviar imediatamente;Alta;;410;1;55;0;5
+812b9f08-46ed-43cf-a8bc-ebe5d747f75c;D4002;Cadeira Gamer Ultimate;Não compraria;7.00%;Aguardar;Baixa;Centro RJ;120;0;0;1;1
+60b82a39-37b3-4734-be63-43cba56a815e;E5003;Monitor 27'' 4K;Compraria;97.00%;Enviar imediatamente;Alta;;290;1;15;0;12
+52e9e529-2ba6-41e8-8022-e35f26143449;F6004;Notebook Gamer Titan;Compraria;99.00%;Enviar imediatamente;Alta;;600;1;80;0;10
+8fe7e2e4-ed66-4b4e-bcd8-58ada6794dc1;G7005;Smartphone Galaxy Ultra;Não compraria;0.00%;Aguardar;Baixa;;150;0;0;2;8
+435abd66-c6c0-4114-b63d-1959854caa6c;H8006;Tablet 10.5'' Wi-Fi;Não compraria;7.00%;Aguardar;Baixa;;75;0;0;1;9
+9fee3b48-39b8-4e38-b615-31ec59ac9354;I9007;Impressora Multifuncional;Compraria;94.00%;Pré-reservar em hub;Média;Centro Norte;210;1;22;0;4
+c0477234-88ed-4a5d-b9fc-28ab3a5319d2;J10008;Caixa de Som Bluetooth;Não compraria;0.00%;Aguardar;Baixa;;135;0;0;2;7
+5f128940-22a3-436e-b7c5-18f167c1fc60;K11009;Roteador Wi-Fi 6;Compraria;91.00%;Pré-reservar em hub;Média;Centro MG;195;1;35;0;2
+190dbde6-5c8f-46f8-8919-371bbd72af94;L12010;Câmera de Segurança;Não compraria;7.00%;Aguardar;Baixa;;85;0;0;1;12
+85845bb3-f65a-4dd6-9da4-53d542911047;M13011;Console PlayBox 5;Compraria;99.00%;Enviar imediatamente;Alta;;470;1;70;0;5
+101d4803-8361-454b-88bc-22e8318df0d2;N14012;HD Externo 2TB;Não compraria;0.00%;Aguardar;Baixa;Centro SP;160;0;0;2;0
+70f5729c-7bdf-478b-8357-2476ff597865;O15013;Smartwatch Fit;Compraria;94.00%;Pré-reservar em hub;Média;Centro Sul;210;1;28;0;3
+4dab1d0e-b00f-4f93-bdc1-a4984eb6412e;P16014;Ar Condicionado 12000 BTUs;Não compraria;7.00%;Aguardar;Baixa;;110;0;0;1;12
+df0127fe-a095-4bd1-a4cf-322b61a078ad;Q17015;Fogão Inox 5 bocas;Compraria;99.00%;Enviar imediatamente;Alta;Centro RJ;250;1;30;0;1
+40231af1-13dc-4fcc-93f4-e41f3cc38376;R18016;Geladeira Duplex;Compraria;99.00%;Enviar imediatamente;Alta;;360;1;48;0;9
+0150f48b-1748-4fc1-8957-fb2decef1358;S19017;Micro-ondas 20L;Não compraria;0.00%;Aguardar;Baixa;;90;0;0;2;11
+8e67df56-bd7b-48b7-afd1-021725f2f337;T20018;Aspirador de Pó Vertical;Compraria;91.00%;Pré-reservar em hub;Média;;200;1;18;0;6

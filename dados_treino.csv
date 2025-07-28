@@ -1,0 +1,11 @@
+item_id,item_name,view_time_seconds,in_cart,cart_time_minutes,last_action,location,label
+T001,Mouse Pad Gamer,120,0,0,viewed,SP,0
+T002,Fone Bluetooth Z40,300,1,30,in_cart,RJ,1
+T003,Monitor FullHD 24,240,1,20,in_cart,MG,1
+T004,Notebook Slim 14,180,0,0,viewed,BA,0
+T005,SSD 1TB NVMe,250,1,15,in_cart,SP,1
+T006,Tablet 8.0 Wi-Fi,80,0,0,skipped,RJ,0
+T007,Cadeira Escritório,200,1,25,in_cart,SP,1
+T008,Webcam 1080p,160,0,0,viewed,RS,0
+T009,HD Externo 1TB,300,1,40,in_cart,MG,1
+T010,Impressora Jato de Tinta,110,0,0,skipped,BA,0

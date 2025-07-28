@@ -1,0 +1,12 @@
+﻿item_id;item_name;view_time_seconds;in_cart;cart_time_minutes;last_action;location;prediction_id;probabilidade;compra_provavel;decisao;probabilidade (%);acao_logistica;hub_destino;prioridade_envio
+A1001;Headphone XYZ;320;1;40;0;12;d446dc04-b494-4790-be85-82eaee104a85;0.99;1;Compraria;99.00%;Enviar imediatamente;;Alta
+C3001;Teclado Mecânico Pro;410;1;55;0;5;79a9bc1c-5529-499c-9e3a-d4f26e1fed1a;0.99;1;Compraria;99.00%;Enviar imediatamente;;Alta
+E5003;Monitor 27'' 4K;290;1;15;0;12;60b82a39-37b3-4734-be63-43cba56a815e;0.97;1;Compraria;97.00%;Enviar imediatamente;;Alta
+F6004;Notebook Gamer Titan;600;1;80;0;10;52e9e529-2ba6-41e8-8022-e35f26143449;0.99;1;Compraria;99.00%;Enviar imediatamente;;Alta
+I9007;Impressora Multifuncional;210;1;22;0;4;9fee3b48-39b8-4e38-b615-31ec59ac9354;0.94;1;Compraria;94.00%;Pré-reservar em hub;Centro Norte;Média
+K11009;Roteador Wi-Fi 6;195;1;35;0;2;5f128940-22a3-436e-b7c5-18f167c1fc60;0.91;1;Compraria;91.00%;Pré-reservar em hub;Centro MG;Média
+M13011;Console PlayBox 5;470;1;70;0;5;85845bb3-f65a-4dd6-9da4-53d542911047;0.99;1;Compraria;99.00%;Enviar imediatamente;;Alta
+O15013;Smartwatch Fit;210;1;28;0;3;70f5729c-7bdf-478b-8357-2476ff597865;0.94;1;Compraria;94.00%;Pré-reservar em hub;Centro Sul;Média
+Q17015;Fogão Inox 5 bocas;250;1;30;0;1;df0127fe-a095-4bd1-a4cf-322b61a078ad;0.99;1;Compraria;99.00%;Enviar imediatamente;Centro RJ;Alta
+R18016;Geladeira Duplex;360;1;48;0;9;40231af1-13dc-4fcc-93f4-e41f3cc38376;0.99;1;Compraria;99.00%;Enviar imediatamente;;Alta
+T20018;Aspirador de Pó Vertical;200;1;18;0;6;8e67df56-bd7b-48b7-afd1-021725f2f337;0.91;1;Compraria;91.00%;Pré-reservar em hub;;Média
