@@ -4,23 +4,23 @@ Este projeto foi criado com o intuito de estudar e simular de forma simplificada
 
 A ideia central do sistema é antecipar a logística de determinados produtos para agilizar a entrega, deixando-os:
 
-Pré-separados,
+° Pré-separados,
 
-Pré-embalados, ou até mesmo
+° Pré-embalados, ou até mesmo
 
-Enviados para o centro logístico mais próximo do cliente antes mesmo da finalização da compra.
+° Enviados para o centro logístico mais próximo do cliente antes mesmo da finalização da compra.
 
 Tudo isso é feito com base em análises de comportamento do usuário, como:
 
-Tempo gasto visualizando o item,
+° Tempo gasto visualizando o item,
 
-Tempo em que o item permanece no carrinho,
+° Tempo em que o item permanece no carrinho,
 
-Ações realizadas recentemente,
+° Ações realizadas recentemente,
 
-Histórico de busca e interesse,
+° Histórico de busca e interesse,
 
-Avaliações e reviews pesquisados.
+° Avaliações e reviews pesquisados.
 
 🚀 Objetivo
 
@@ -40,31 +40,31 @@ Uma possível evolução para este projeto é conectar o modelo a uma API real d
 
 🛠️ Tecnologias Utilizadas
 
-Python 3
+° Python 3
 
-Pandas para manipulação de dados
+° Pandas para manipulação de dados
 
-Scikit-learn para machine learning (Random Forest)
+° Scikit-learn para machine learning (Random Forest)
 
-Joblib para salvar o modelo
+° Joblib para salvar o modelo
 
-UUID para rastreamento de previsões
+° UUID para rastreamento de previsões
 
 📂 Estrutura da Simulação
 
-Leitura de dados de treino (dados_treino.csv)
+> Leitura de dados de treino (dados_treino.csv)
 
-Leitura de dados fictícios de usuários (dados_usuarios.json)
+> Leitura de dados fictícios de usuários (dados_usuarios.json)
 
-Treinamento e exportação do modelo
+> Treinamento e exportação do modelo
 
-Previsões com base nos novos dados
+> Previsões com base nos novos dados
 
-Geração de arquivos CSV:
+> Geração de arquivos CSV:
 
-resultados_predicoes.csv → Resultado completo das previsões
+> resultados_predicoes.csv → Resultado completo das previsões
 
-acoes_logisticas.csv → Apenas as ações logísticas relevantes
+> acoes_logisticas.csv → Apenas as ações logísticas relevantes
 
 📊 Exemplo de Saída
 prediction_id	item_name	decisão	probabilidade (%)	ação logística	prioridade	hub destino
@@ -72,4 +72,3 @@ prediction_id	item_name	decisão	probabilidade (%)	ação logística	prioridade	
 89ab1234...	Mouse ABC	Não compraria	42.15%	Aguardar	Baixa	Centro RJ
 456cd789...	Livro DEF	Compraria	87.03%	Pré-reservar em hub	Média	Centro MG
 
-👉 Este repositório é apenas uma prova de conceito acadêmica, não um sistema de produção.
